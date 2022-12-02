@@ -23,6 +23,19 @@ Hello! Ça marche votre truc *bgplot*
 
 Ravie d'être venue, pour la formation et pour les rencontres <3 *Une personne formée ravie*
 
+Pourquoi cette formation n'est pas obligatoire en première année de thèse? Utilité publique, decouvrir la joie des git conflict c'est un réve eveillé! (Merci beaucoup pour tout c'etait genial!)  *Lise*  
+
+:::
+
+::: {.callout-note icon="false"}
+## 2021
+:::
+
+::: {.callout-note icon="false"}
+## 2020
+:::
+
+
 :::
 
 ::: {.callout-note icon="false"}
